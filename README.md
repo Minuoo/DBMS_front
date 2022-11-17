@@ -1,2 +1,24 @@
-# DBMS_front
-기업의 인력과 프로젝트를 관리하기 위한 웹 기반 시스템
+# db-front
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
